@@ -1,5 +1,12 @@
 ## Hello World! Meu nome é Daniel Diniz
+<div align="center"> 
+  <a align="center" href="https://instagram.com/daniel_dinizm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a align="center" href = "mailto:daniel.diniz.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/daniel-diniz-35b565209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
+##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getDanielDiniz&layout=donut-vertical&theme=tokyonight)](https://github.com/getDanielDiniz/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getDanielDiniz&theme=tokyonight)
@@ -20,10 +27,13 @@
 
 ##
 
-<div align="center"> 
-  <a align="center" href="https://instagram.com/daniel_dinizm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a align="center" href = "mailto:daniel.diniz.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/daniel-diniz-35b565209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### Projetos:
+
+#### Feitos em universidade:
+<a  href="https://github.com/getDanielDiniz/pmv-ads-2023-1-e1-proj-web-t14-pmv-ads-2023-1-e1-proj-web-t14-g3-ffy/tree/main/src/financeFY">FinanceFY - Tema: Web Front-End</a>
+
+#### Feitos para portfólio:
+
+
+
           
