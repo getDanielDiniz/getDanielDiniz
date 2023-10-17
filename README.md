@@ -8,7 +8,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getDanielDiniz&layout=donut-vertical&theme=tokyonight)](https://github.com/getDanielDiniz/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getDanielDiniz&theme=tokyonight)
 ##
 
