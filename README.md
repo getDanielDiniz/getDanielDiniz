@@ -30,7 +30,7 @@
 ### Projetos:
 
 #### Feitos em universidade:
-<a  href="https://github.com/getDanielDiniz/pmv-ads-2023-1-e1-proj-web-t14-pmv-ads-2023-1-e1-proj-web-t14-g3-ffy/tree/main/src/financeFY">FinanceFY - Tema: Web Front-End</a>
+<a  href="https://github.com/getDanielDiniz/Finance-FY">FinanceFY - Tema: Web Front-End</a>
 
 #### Feitos para portfólio:
 <a href="https://github.com/getDanielDiniz/API_CRUD-filme">API .NET - CRUD com filmes
