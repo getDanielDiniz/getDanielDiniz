@@ -8,24 +8,28 @@
 </div>
 
 ##
-
+### Linguagens mais utilizadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getDanielDiniz&layout=donut-vertical&theme=tokyonight)](https://github.com/getDanielDiniz/github-readme-stats)
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGYzNmc1anF1YjB1anNmYWp5MzRndG45NjN4dWtidnAxbGVkb2VqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
+ 
+
+
 ##
 
-### Habilidades
-![HTML5][html-shield]
-![CSS3][css-shield]
-![JavaScript][javascript-shield]
-![React][react-shield]
-![Redux][redux-shield]
-![Bootstrap][bootstrap-shield]
-![Sass][sass-shield]
-![Figma][figma-shield]
-![Adobe Photoshop][photoshop-shield]
-![C#][csharp-shield]
-![MySQL][mysql-shield]
-![.NET][dotnet-shield]
-![Git][git-shield]
+### Habilidades:
+  ![HTML5][html-shield]
+  ![CSS3][css-shield]
+  ![JavaScript][javascript-shield]
+  ![React][react-shield]
+  ![Redux][redux-shield]
+  ![Bootstrap][bootstrap-shield]
+  ![Sass][sass-shield]
+  ![Figma][figma-shield]
+  ![Adobe Photoshop][photoshop-shield]
+  ![C#][csharp-shield]
+  ![MySQL][mysql-shield]
+  ![.NET][dotnet-shield]
+  ![Git][git-shield]
 
 ##
 
@@ -55,6 +59,10 @@
 [csharp-shield]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [redux-shield]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 [git-shield]: https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
+
+<!--- Media -->
+[gif]: https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGYzNmc1anF1YjB1anNmYWp5MzRndG45NjN4dWtidnAxbGVkb2VqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp
+
 
 
           
