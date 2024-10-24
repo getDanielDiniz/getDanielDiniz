@@ -41,6 +41,7 @@
 #### Feitos para portfólio:
 <a href="https://github.com/getDanielDiniz/API_CRUD-filme">API .NET - CRUD com filmes </a><br/>
 <a href="https://github.com/getDanielDiniz/API-Livraria">API .NET - Gerenciador de Livraria (Mock) </a>
+<a href="https://github.com/getDanielDiniz/Tabela-Fipe.git">Consumo de API: Tabela-Fipe </a>
 
 
 
