@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://github.com/getDanielDiniz/getDanielDiniz/blob/main/Github%20Readme%20Banner.png?raw=true" />
+![image](https://github.com/user-attachments/assets/6857d8d8-9637-4791-b772-634c58f55791)<img align="center" width="100%" src="https://github.com/getDanielDiniz/getDanielDiniz/blob/main/Github%20Readme%20Banner.png?raw=true" />
 <div align="center">  
   <a align="center" href = "https://api.whatsapp.com/send/?phone=5531983604991"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a align="center" href = "mailto:daniel.diniz.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -40,7 +40,8 @@
 <a  href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-chame-quando-precisar">Chame Quando Precisar - Tema: Aplicação Web Interativa </a>
 #### Feitos para portfólio:
 <a href="https://github.com/getDanielDiniz/API_CRUD-filme">API .NET - CRUD com filmes </a><br/>
-<a href="https://github.com/getDanielDiniz/API-Livraria">API .NET - Gerenciador de Livraria (Mock) </a><br/>
+<a href="https://github.com/getDanielDiniz/API-Livraria">API .NET Iniciante - Gerenciador de Livraria (Mock) </a><br/>
+<a href="https://github.com/getDanielDiniz/Ex_Arq_RocketSeat">API .NET Iniciante - Gerenciador de Tarefas (Mock) </a><br/>
 <a href="https://github.com/getDanielDiniz/Tabela-Fipe.git">Consumo de API: Tabela-Fipe </a><br/>
 
 
