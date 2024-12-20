@@ -42,6 +42,7 @@
 <a href="https://github.com/getDanielDiniz/API_CRUD-filme">API .NET - CRUD com filmes </a><br/>
 <a href="https://github.com/getDanielDiniz/API-Livraria">API .NET Iniciante - Gerenciador de Livraria (Mock) </a><br/>
 <a href="https://github.com/getDanielDiniz/Ex_Arq_RocketSeat">API .NET Iniciante - Gerenciador de Tarefas (Mock) </a><br/>
+<a href="https://github.com/getDanielDiniz/Ex_Arq_RocketSeat">API .NET Intermediário - Gerenciador de Despesas (MySQL e DDD) </a><br/>
 <a href="https://github.com/getDanielDiniz/Tabela-Fipe.git">Consumo de API: Tabela-Fipe </a><br/>
 
 
