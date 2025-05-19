@@ -33,18 +33,14 @@
 
 ##
 
-### Projetos:
+### Projetos em Destaque:
 
-#### Feitos em universidade:
-<a  href="https://github.com/getDanielDiniz/Finance-FY">FinanceFY - Tema: Web Front-End</a><br/>
-<a  href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-chame-quando-precisar">Chame Quando Precisar - Tema: Aplicação Web Interativa </a>
-#### Feitos para portfólio:
-<a href="https://github.com/getDanielDiniz/API_CRUD-filme">API .NET - CRUD com filmes </a><br/>
-<a href="https://github.com/getDanielDiniz/API-Livraria">API .NET Iniciante - Gerenciador de Livraria (Mock) </a><br/>
-<a href="https://github.com/getDanielDiniz/Ex_Arq_RocketSeat">API .NET Iniciante - Gerenciador de Tarefas (Mock) </a><br/>
-<a href="https://github.com/getDanielDiniz/CashFlowAPI">API .NET Intermediário - Gerenciador de Despesas (MySQL e DDD) </a><br/>
+#### Front-End:
+<a href="https://github.com/getDanielDiniz/forpeople_musics/tree/main/App">Estação de Rádios</a><br/>
 <a href="https://github.com/getDanielDiniz/Tabela-Fipe.git">Consumo de API: Tabela-Fipe </a><br/>
 
+### Back-End:
+<a href="https://github.com/getDanielDiniz/CashFlowAPI">CashFlow API</a><br/>
 
 
 
