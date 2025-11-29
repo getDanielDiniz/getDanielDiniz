@@ -40,19 +40,6 @@
   ![Git][git-shield]
   ![Postman][postman-shield]
 
-##
-
-### Projetos em Destaque:
-
-#### Front-End:
-<a href="https://github.com/getDanielDiniz/forpeople_musics/tree/main/App">Estação de Rádios</a><br/>
-<a href="https://github.com/getDanielDiniz/Tabela-Fipe.git">Consumo de API: Tabela-Fipe </a><br/>
-
-### Back-End:
-<a href="https://github.com/getDanielDiniz/CashFlowAPI">CashFlow API</a><br/>
-
-
-
 <!--- Shields Skills -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
